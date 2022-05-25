@@ -1,8 +1,5 @@
 Si estas leyendo este artículo probablemente hayas prestado algún servicio que no haya sido remunerado por alguno de tus clientes, si el caso déjame decírtelo que lo lamento y empatizo contigo, también tuve un emprendimiento donde nunca me pagaron unas facturas es frustrante y da rabia, pero como todos los problemas en la vida (o la mayoría) tienen soluciones, o bueno simplemente estas aburrido y quieres aprender un poco (simpre es bueno estar informado sobre este tema si tienes un emprendimiento), en este articulo quiero explicarte las 7 cosas que debes saber antes de iniciar un proceso de cobranza al puro estilo bilk (simple y fácil):
-
 <br><br>
-
-
 1. **¿Cuándo empezar a cobrar?:**
 
 <br><br>
