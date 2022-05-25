@@ -5,6 +5,7 @@ Si estas leyendo este artículo probablemente hayas prestado algún servicio que
 
 1. **¿Cuándo empezar a cobrar?:**
 
+<br><br>
 
 Bueno es una pregunta difícil de responder generalmente los bancos y financieras empiezan a cobrar desde los 90 días de mora (mora = retraso en el pago de una deuda), pero no somos bancos ni financieras nuestros negocios depende de cada venta que realizamos, así que te diría si hiciste todo lo posible por que te pague no te contestan o te van dilatando con promesas de pago que no cumplen 30 días de espera es un plazo más que razonable, más adelante intentaré explicarte por qué los días son tan importantes pero como spoiler simplemente por estadística mientras antes empiezas a cobrar una factura mayor son las posibilidad de recuperar tu plata.
 
