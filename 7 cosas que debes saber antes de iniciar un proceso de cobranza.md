@@ -46,7 +46,8 @@ Si es que nos va bien, tenemos tiempo y vemos que la gente se interesa en nuestr
 <br><br>
 **La honestidad** es una virtud muy importante, aparece en la tabla de mandamientos de la Biblia (séptimo mandamiento) es una de las 12 reglas de la vida de Jordán Peterson (te recomiendo mucho ese libro a mí me ayudó en mi vida), volviendo al tema por mucho que te haya comentado una empresa que van a recuperar que son los mejores **no siempre se logra recuperar** , a veces las empresas son un simple RUT sin bienes, o los esconden, queman, créeme he visto de todo en mi años de abogado, por lo que a pesar de la rabia que tengas por que te caga… existe una posibilidad que no recuperes nada y debas asumir esa perdida, ¡pero ey! no todo es tan negativo al menos tendrás un premio de consuelo; **la Carta de Castigo** , ¿qué es eso? En palabras simples puedes tirar como perdida el no pago de la factura y te sirve para descontar impuestos, no es mucho, pero es algo: para más información entra a este link de la Pagina del Servicio de Impuestos Internos que explica en detalle y de forma muy seria y profesional (no como nosotros) como funciona:
 <br>
-[https://www.sii.cl/documentos/circulares/2008/circu24.htm](https://www.sii.cl/documentos/circulares/2008/circu24.htm)
+[https://www.sii.cl/documentos/circulares/2008/circu24.htm]
+(https://www.sii.cl/documentos/circulares/2008/circu24.htm)
 <br><br>
 **Bonus:**
 <br><br>
