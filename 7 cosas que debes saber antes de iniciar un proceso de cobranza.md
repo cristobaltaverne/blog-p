@@ -16,15 +16,15 @@ Bueno probablemente si vas a cada empresa te dirán que son los mejores, que rec
 <br><br>
 Si vas a elegir un proceso de cobranza judicial debes tener claro que una cosa son los honorarios que cobran las empresas y otra son los gastos judiciales que implica el proceso, los honorarios de la empresa al menos si la eliges dentro de nuestra plataforma serán contra resultado en español si no se recuperas no pagas, pero los gastos judiciales son otra historia, ya deberás asumir esos gastos y será un riesgo para ti que no e te paguen si no se logra recuperar tu plata. ¿Cuáles son esos gastos? Te menciono algunos y dependerá hasta donde llegará el juicio, si mis profesores de derecho vieran este articulo les daría un infarto ya que te las diré de la forma más simple, menos sofisticada y menos siútica posible, al final la idea es que todos logremos entender estos términos y no creerse el más bacán por recitar leyes de memoria con definiciones exóticas y cada vez más largas;
 <br>
-a. **Mandamiento** : hojita de papel que se debe firmar ante el notario para que la empresa te pueda representar ante los tribunales de justicia y ¿por qué es así? Bueno porque la ley lo exige nada más que decir.
+  a. **Mandamiento** : hojita de papel que se debe firmar ante el notario para que la empresa te pueda representar ante los tribunales de justicia y ¿por qué es así? Bueno porque la ley lo exige nada más que decir.
 <br>
-b. **Notificaciones** : una persona (aquellas autorizados por el poder judicial para hacer esa pega; se les conoce como receptores judiciales) lleva una hojita del papel donde el deudor y le va informando de cada etapa que va avanzando el procedimiento cuando la ley lo exige.
+  b. **Notificaciones** : una persona (aquellas autorizados por el poder judicial para hacer esa pega; se les conoce como receptores judiciales) lleva una hojita del papel donde el deudor y le va informando de cada etapa que va avanzando el procedimiento cuando la ley lo exige.
 <br>
-c. **Embargo** : El receptor autorizado por el tribunal va donde el domicilio del deudor y se retienen los bienes de este para asegurar el pago de lo debido.
+  c. **Embargo** : El receptor autorizado por el tribunal va donde el domicilio del deudor y se retienen los bienes de este para asegurar el pago de lo debido.
 <br><br>
-d. **Incautación** : una vez embargado los bienes del deudor nuevamente se lleva a una persona esta vez un &quot;Incautador&quot; que se lleva los bienes del domicilio del deudor a una bodega hasta el remate.
+  d. **Incautación** : una vez embargado los bienes del deudor nuevamente se lleva a una persona esta vez un &quot;Incautador&quot; que se lleva los bienes del domicilio del deudor a una bodega hasta el remate.
 <br>
-e. **Remates** : Ya incautado los bienes se rematan ante un martillero (persona que remata bienes, generalmente cobran una comisión entre el 7 y 10 por ciento [si se lo que estas pensado; se forran]), con el saldo restante recibirás el pago de lo que te adeudan y colorín colorado este cuento se ha acabado.
+  e. **Remates** : Ya incautado los bienes se rematan ante un martillero (persona que remata bienes, generalmente cobran una comisión entre el 7 y 10 por ciento [si se lo que estas pensado; se forran]), con el saldo restante recibirás el pago de lo que te adeudan y colorín colorado este cuento se ha acabado.
 <br>
 Respecto a más detalles de términos jurídicos relacionados a cobranzas, los procesos judiciales y costos relacionados a estos los contaré próximamente en otro artículo, sino esto sería más largo que una enciclopedia., tampoco queremos darte la lata.
 <br><br>
@@ -36,9 +36,9 @@ Si es que te interesa nuestra recomendación, sino no es el caso puedes educadam
 <br><br>
 Bueno aquí se complica un poco más la cosa, pero en simple son dos Ejecutivo y Ordinario;
 <br>
-a. **Ejecutivo** : para facturas con mora menos de un año: es un proceso más rápido y expedito ya que las facturas según la ley tienen una presunción de veracidad, aquí todo fluye más rápido.
+  a. **Ejecutivo** : para facturas con mora menos de un año: es un proceso más rápido y expedito ya que las facturas según la ley tienen una presunción de veracidad, aquí todo fluye más rápido.
 <br>
-b. **Ordinario** : para facturas con mora de más de un año este es más complicado, más largo, se debe probar la existencia de la deuda y cumplir otros requintos (si estas motivado redactaré otro articulo explicándolo en detalle y sus tiempos), quédate con que es mas lento, más caro y tendrás que ser paciente.
+  b. **Ordinario** : para facturas con mora de más de un año este es más complicado, más largo, se debe probar la existencia de la deuda y cumplir otros requintos (si estas motivado redactaré otro articulo explicándolo en detalle y sus tiempos), quédate con que es mas lento, más caro y tendrás que ser paciente.
 <br>
 Si es que nos va bien, tenemos tiempo y vemos que la gente se interesa en nuestro aburrido blog subiré otro articulo explicando en detalle estos procedimientos.
 <br><br>
