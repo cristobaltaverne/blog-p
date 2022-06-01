@@ -15,18 +15,12 @@ Bueno probablemente si vas a cada empresa te dirán que son los mejores, que rec
 4. **Gastos Judiciales:**
 <br><br>
 Si vas a elegir un proceso de cobranza judicial debes tener claro que una cosa son los honorarios que cobran las empresas y otra son los gastos judiciales que implica el proceso, los honorarios de la empresa al menos si la eliges dentro de nuestra plataforma serán contra resultado en español si no se recuperas no pagas, pero los gastos judiciales son otra historia, ya deberás asumir esos gastos y será un riesgo para ti que no e te paguen si no se logra recuperar tu plata. ¿Cuáles son esos gastos? Te menciono algunos y dependerá hasta donde llegará el juicio, si mis profesores de derecho vieran este articulo les daría un infarto ya que te las diré de la forma más simple, menos sofisticada y menos siútica posible, al final la idea es que todos logremos entender estos términos y no creerse el más bacán por recitar leyes de memoria con definiciones exóticas y cada vez más largas;
-<br>
-   **Mandamiento** : hojita de papel que se debe firmar ante el notario para que la empresa te pueda representar ante los tribunales de justicia y ¿por qué es así? Bueno porque la ley lo exige nada más que decir.
-<br>
-   **Notificaciones** : una persona (aquellas autorizados por el poder judicial para hacer esa pega; se les conoce como receptores judiciales) lleva una hojita del papel donde el deudor y le va informando de cada etapa que va avanzando el procedimiento cuando la ley lo exige.
-<br>
-   **Embargo** : El receptor autorizado por el tribunal va donde el domicilio del deudor y se retienen los bienes de este para asegurar el pago de lo debido.
-<br><br>
-   **Incautación** : una vez embargado los bienes del deudor nuevamente se lleva a una persona esta vez un &quot;Incautador&quot; que se lleva los bienes del domicilio del deudor a una bodega hasta el remate.
-<br>
-   **Remates** : Ya incautado los bienes se rematan ante un martillero (persona que remata bienes, generalmente cobran una comisión entre el 7 y 10 por ciento [si se lo que estas pensado; se forran]), con el saldo restante recibirás el pago de lo que te adeudan y colorín colorado este cuento se ha acabado.
-<br>
-Respecto a más detalles de términos jurídicos relacionados a cobranzas, los procesos judiciales y costos relacionados a estos los contaré próximamente en otro artículo, sino esto sería más largo que una enciclopedia., tampoco queremos darte la lata.
+<br><br> **Mandamiento**: hojita de papel que se debe firmar ante el notario para que la empresa te pueda representar ante los tribunales de justicia y ¿por qué es así? Bueno porque la ley lo exige nada más que decir.
+<br> **Notificaciones**: una persona (aquellas autorizados por el poder judicial para hacer esa pega; se les conoce como receptores judiciales) lleva una hojita del papel donde el deudor y le va informando de cada etapa que va avanzando el procedimiento cuando la ley lo exige.
+<br> **Embargo**: El receptor autorizado por el tribunal va donde el domicilio del deudor y se retienen los bienes de este para asegurar el pago de lo debido.
+<br> **Incautación**: una vez embargado los bienes del deudor nuevamente se lleva a una persona esta vez un &quot;Incautador&quot; que se lleva los bienes del domicilio del deudor a una bodega hasta el remate.
+<br> **Remates**: Ya incautado los bienes se rematan ante un martillero (persona que remata bienes, generalmente cobran una comisión entre el 7 y 10 por ciento [si se lo que estas pensado; se forran]), con el saldo restante recibirás el pago de lo que te adeudan y colorín colorado este cuento se ha acabado.
+<br> Respecto a más detalles de términos jurídicos relacionados a cobranzas, los procesos judiciales y costos relacionados a estos los contaré próximamente en otro artículo, sino esto sería más largo que una enciclopedia., tampoco queremos darte la lata.
 <br><br>
 5. **Recomendación:**
 <br><br>
@@ -35,21 +29,16 @@ Si es que te interesa nuestra recomendación, sino no es el caso puedes educadam
 6. **Tipos de Procedimientos Judiciales:**
 <br><br>
 Bueno aquí se complica un poco más la cosa, pero en simple son dos Ejecutivo y Ordinario;
-<br>
-  a. **Ejecutivo** : para facturas con mora menos de un año: es un proceso más rápido y expedito ya que las facturas según la ley tienen una presunción de veracidad, aquí todo fluye más rápido.
-<br>
-  b. **Ordinario** : para facturas con mora de más de un año este es más complicado, más largo, se debe probar la existencia de la deuda y cumplir otros requintos (si estas motivado redactaré otro articulo explicándolo en detalle y sus tiempos), quédate con que es mas lento, más caro y tendrás que ser paciente.
-<br>
-Si es que nos va bien, tenemos tiempo y vemos que la gente se interesa en nuestro aburrido blog subiré otro articulo explicando en detalle estos procedimientos.
+<br> a. **Ejecutivo** : para facturas con mora menos de un año: es un proceso más rápido y expedito ya que las facturas según la ley tienen una presunción de veracidad, aquí todo fluye más rápido.
+<br> b. **Ordinario** : para facturas con mora de más de un año este es más complicado, más largo, se debe probar la existencia de la deuda y cumplir otros requintos (si estas motivado redactaré otro articulo explicándolo en detalle y sus tiempos), quédate con que es mas lento, más caro y tendrás que ser paciente.
+<br> Si es que nos va bien, tenemos tiempo y vemos que la gente se interesa en nuestro aburrido blog subiré otro articulo explicando en detalle estos procedimientos.
 <br><br>
 7. **No siempre se logra recuperar:**
 <br><br>
 **La honestidad** es una virtud muy importante, aparece en la tabla de mandamientos de la Biblia (séptimo mandamiento) es una de las 12 reglas de la vida de Jordán Peterson (te recomiendo mucho ese libro a mí me ayudó en mi vida), volviendo al tema por mucho que te haya comentado una empresa que van a recuperar que son los mejores **no siempre se logra recuperar** , a veces las empresas son un simple RUT sin bienes, o los esconden, queman, créeme he visto de todo en mi años de abogado, por lo que a pesar de la rabia que tengas por que te caga… existe una posibilidad que no recuperes nada y debas asumir esa perdida, ¡pero ey! no todo es tan negativo al menos tendrás un premio de consuelo; **la Carta de Castigo** , ¿qué es eso? En palabras simples puedes tirar como perdida el no pago de la factura y te sirve para descontar impuestos, no es mucho, pero es algo: para más información entra a este link de la Pagina del Servicio de Impuestos Internos que explica en detalle y de forma muy seria y profesional (no como nosotros) como funciona:
-<br>
-[https://www.sii.cl/documentos/circulares/2008/circu24.htm]
+<br> [https://www.sii.cl/documentos/circulares/2008/circu24.htm]
 (https://www.sii.cl/documentos/circulares/2008/circu24.htm)
-<br><br>
-**Bonus:**
+<br><br> **Bonus:**
 <br><br>
 Por último, queríamos invitarte a revisar nuestra plataforma, buscamos disminuir al máximo tus costos en cobranza, a través de nuestra plataforma **podrás ahorrar hasta un 40% en esos costos** , ¿por qué? Bueno simplemente por que lo ofrecemos un buen trato a estas empresas un mejor precio a cambio de canalizar casos de pymes en un solo proveedor (en este caso nosotros), tratamos además de elegir a nuestro criterio (podemos equivocarnos), las mejores empresas de cobranza del país, que cumplan ciertos requisitos de desarrollos tecnológico (LegalTech para los más pro) eh integridad (nunca falta la empresa que manda matones tipo mafia), no nos interesa ese estilo (además que es ilegal y podría tratarte infinitos problemas más grande de que no te paguen), buscamos disruptir un poco esta industria creando mejores formas de recuperar y más económicas, siempre con la más buena onda buscando la mejor solución posible para todas las partes.
 <br>
